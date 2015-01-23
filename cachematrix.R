@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## the functions cache the value of the matrix and its inversed one 
+## so that when we need it again, it can be looked up in the cache rather 
+## than computed again.
 
 ## create a list containing four functions that sets and gets 
 ## the value of the matrix and its inversed one. 
